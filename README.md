@@ -1,2 +1,2 @@
-## Proyecto de Data Scien aplicado al Oil&Gas
+## Proyecto de Data Science aplicado al Oil&Gas
 
